@@ -1,5 +1,7 @@
 module.exports = [
     // Buid-in device
+    'roboProBot',
+    'roboProStation',
     'arduinoUno',
     'arduinoNano',
     'arduinoLeonardo',
