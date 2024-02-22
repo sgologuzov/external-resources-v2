@@ -2,7 +2,7 @@
     "updater": {
         "default": {
             "provider": "github",
-            "repo": "openblockcc/external-resources-v2"
+            "repo": "sgologuzov/external-resources-v2"
         },
         "cn" : {
             "provider": "spaces",
